@@ -1,0 +1,4 @@
+{
+  "UnexpectedError": "Ha ocurrido un error inesperado. %error%",
+  "TransactionalError": "Ha ocurrido un error transaccional"
+}
